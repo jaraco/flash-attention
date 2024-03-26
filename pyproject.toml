@@ -1,3 +1,3 @@
 [build-system]
-requires = ["setuptools>=56", "torch"]
+requires = ["setuptools>=56", "torch", "packaging"]
 build-backend = "setuptools.build_meta"
