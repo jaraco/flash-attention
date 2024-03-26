@@ -1,3 +1,3 @@
 [build-system]
-requires = ["setuptools>=56", "torch", "packaging", "wheel"]
+requires = ["setuptools>=56", "torch", "packaging", "wheel", "cuda-python"]
 build-backend = "setuptools.build_meta"
